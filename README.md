@@ -1,0 +1,2 @@
+# A-Phylogenetic-Tree-Construction-Using-UPGMA-and-Neighbor-Joining-Methods-in-MATLAB
+This MATLAB code constructs phylogenetic trees using the UPGMA (Unweighted Pair Group Method with Arithmetic Mean) and Neighbor-Joining methods. It can process both pre-aligned sequences and sequences obtained from GenBank, making it versatile for different types of input data.   The code outputs visual representations of the phylogenetic trees. 
