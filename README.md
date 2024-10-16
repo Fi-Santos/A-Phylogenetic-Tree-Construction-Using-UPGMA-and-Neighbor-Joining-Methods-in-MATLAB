@@ -1,4 +1,4 @@
-[dados.txt](https://github.com/user-attachments/files/17401178/dados.txt)#A-Phylogenetic-Tree-Construction-Using-UPGMA-and-Neighbor-Joining-Methods-in-MATLAB
+#A-Phylogenetic-Tree-Construction-Using-UPGMA-and-Neighbor-Joining-Methods-in-MATLAB
 
 This MATLAB code constructs phylogenetic trees using the UPGMA (Unweighted Pair Group Method with Arithmetic Mean) and Neighbor-Joining methods. It can process both pre-aligned sequences and sequences obtained from GenBank, making it versatile for different types of input data.
 
@@ -15,8 +15,8 @@ This work builds upon foundational scripts provided by the MATLAB Bioinformatics
 --- MATLAB Bioinformatics Toolbox.
 
 
-## Input Data
-For the unaligned sequences part, you need a file. You can use the data provided in this file: [data.txt](https://github.com/user-attachments/files/17401238/dados.txt). This file is an example for the sequences to be aligned. 
+Input Data
+For the unaligned sequences part, you need a file. You can use the data provided in this file: [dados.txt](https://github.com/user-attachments/files/17401238/dados.txt). This file is an example for the sequences to be aligned. 
 If you use this file,  when it appears ''File name with the information:''  insert  ''dados.txt'' 
 
 To change the aligned sequences used, simply change the names of the sequences in the code (line 304 for the aligned sequences).
